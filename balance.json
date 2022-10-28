@@ -1,0 +1,3490 @@
+[
+  {
+    "no": 2,
+    "date": "2016-01-01",
+    "content": "기존 잔액",
+    "in_charge": "-",
+    "amount": 2648000,
+    "clientId": 1
+  },
+  {
+    "no": 3,
+    "date": "2016-02-17",
+    "content": "배너 및 프로그램출력",
+    "in_charge": "이예지",
+    "amount": -29700,
+    "clientId": 1
+  },
+  {
+    "no": 4,
+    "date": "2016-05-11",
+    "content": "배너, 현수막 출력",
+    "in_charge": "이예지",
+    "amount": -77000,
+    "clientId": 1
+  },
+  {
+    "no": 5,
+    "date": "2016-08-18",
+    "content": "바꾸어요희망으로 잔액",
+    "in_charge": "송하진",
+    "amount": 5305850,
+    "clientId": 1
+  },
+  {
+    "no": 6,
+    "date": "2016-09-09",
+    "content": "B-corp 행사 관련 인쇄물 일체",
+    "in_charge": "박혜민",
+    "amount": -811800,
+    "clientId": 1
+  },
+  {
+    "no": 7,
+    "date": "2016-09-09",
+    "content": "아이디어용광로",
+    "in_charge": "이예지",
+    "amount": 1980000,
+    "clientId": 1
+  },
+  {
+    "no": 8,
+    "date": "2016-09-09",
+    "content": "아이디어용광로 인쇄물 제작",
+    "in_charge": "이예지",
+    "amount": -363000,
+    "clientId": 1
+  },
+  {
+    "no": 9,
+    "date": "2016-09-09",
+    "content": "인쇄물 제작(사랑방배너, MOU현수막)",
+    "in_charge": "이예지",
+    "amount": -44000,
+    "clientId": 1
+  },
+  {
+    "no": 10,
+    "date": "2016-09-29",
+    "content": "배너 디자인 및 인쇄 건 입금",
+    "in_charge": "이예지",
+    "amount": 220000,
+    "clientId": 1
+  },
+  {
+    "no": 11,
+    "date": "2016-10-04",
+    "content": "B-corp 핸드북 도서 인쇄 및 배송",
+    "in_charge": "조수연",
+    "amount": -2985400,
+    "clientId": 1
+  },
+  {
+    "no": 12,
+    "date": "2016-10-13",
+    "content": "소셜스페이스 배너",
+    "in_charge": "이예지",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 13,
+    "date": "2016-10-18",
+    "content": "소셜벤처마케팅브랜딩 배너, 현수막 인쇄",
+    "in_charge": "이예지",
+    "amount": -71500,
+    "clientId": 1
+  },
+  {
+    "no": 14,
+    "date": "2016-11-04",
+    "content": "용광로 브로슈어 편집 및 출력",
+    "in_charge": "이은진",
+    "amount": -165000,
+    "clientId": 1
+  },
+  {
+    "no": 15,
+    "date": "2016-11-16",
+    "content": "한국사회적기업진흥원 입금",
+    "in_charge": "이예지",
+    "amount": 300000,
+    "clientId": 1
+  },
+  {
+    "no": 16,
+    "date": "2016-11-21",
+    "content": "동서대, MOU현수막, 배너 인쇄",
+    "in_charge": "이예지",
+    "amount": -66000,
+    "clientId": 1
+  },
+  {
+    "no": 17,
+    "date": "2016-12-07",
+    "content": "서울시 SDGs 워크샵 관련 인쇄물",
+    "in_charge": "조수연/나미소",
+    "amount": -301400,
+    "clientId": 1
+  },
+  {
+    "no": 18,
+    "date": "2016-12-08",
+    "content": "결과보고서 5권 출력 및 제본 퀵(성남)",
+    "in_charge": "이예지",
+    "amount": -52800,
+    "clientId": 1
+  },
+  {
+    "no": 19,
+    "date": "2016-12-15",
+    "content": "엽서 1800매",
+    "in_charge": "이수연",
+    "amount": -237600,
+    "clientId": 1
+  },
+  {
+    "no": 20,
+    "date": "2016-12-15",
+    "content": "명함 3건 퀵",
+    "in_charge": "나미소",
+    "amount": -75900,
+    "clientId": 1
+  },
+  {
+    "no": 21,
+    "date": "2016-12-20",
+    "content": "디코리아 배너",
+    "in_charge": "이은진",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 22,
+    "date": "2016-12-26",
+    "content": "단국대학교 산학측 입금내역",
+    "in_charge": "이예지",
+    "amount": 3300000,
+    "clientId": 1
+  },
+  {
+    "no": 23,
+    "date": "2016-12-27",
+    "content": "D.innovation 출력,제본 1권",
+    "in_charge": "이예지",
+    "amount": -40700,
+    "clientId": 1
+  },
+  {
+    "no": 24,
+    "date": "2017-01-11",
+    "content": "h펠로우 단행본 인쇄 및 제본",
+    "in_charge": "나미소",
+    "amount": -1540000,
+    "clientId": 1
+  },
+  {
+    "no": 25,
+    "date": "2017-01-19",
+    "content": "매자닌아이팩 브로슈어",
+    "in_charge": "김정태",
+    "amount": 455000,
+    "clientId": 1
+  },
+  {
+    "no": 26,
+    "date": "2017-01-19",
+    "content": "용광로 스토리북 입금",
+    "in_charge": "이예지",
+    "amount": 1544921,
+    "clientId": 1
+  },
+  {
+    "no": 27,
+    "date": "2017-01-31",
+    "content": "MYSC 명함 18건",
+    "in_charge": "나미소",
+    "amount": -356400,
+    "clientId": 1
+  },
+  {
+    "no": 28,
+    "date": "2017-02-03",
+    "content": "용광로 스토리북 발행",
+    "in_charge": "이예지",
+    "amount": -1467400,
+    "clientId": 1
+  },
+  {
+    "no": 29,
+    "date": "2017-02-16",
+    "content": "게르니카 인쇄 지원",
+    "in_charge": "정지연",
+    "amount": -500000,
+    "clientId": 1
+  },
+  {
+    "no": 30,
+    "date": "2017-02-16",
+    "content": "요즈마, 세브란스 현수막",
+    "in_charge": "이예지",
+    "amount": -44000,
+    "clientId": 1
+  },
+  {
+    "no": 31,
+    "date": "2017-03-10",
+    "content": "SEN 포스터",
+    "in_charge": "김수진",
+    "amount": -204600,
+    "clientId": 1
+  },
+  {
+    "no": 32,
+    "date": "2017-03-21",
+    "content": "사내기업가포럼 배너",
+    "in_charge": "김원희",
+    "amount": -44000,
+    "clientId": 1
+  },
+  {
+    "no": 33,
+    "date": "2017-03-21",
+    "content": "명함 2 건 (강애나, 김홍일 님)",
+    "in_charge": "나미소",
+    "amount": -33000,
+    "clientId": 1
+  },
+  {
+    "no": 34,
+    "date": "2017-03-27",
+    "content": "SEN 현수막, 명함 외",
+    "in_charge": "김수진",
+    "amount": -357500,
+    "clientId": 1
+  },
+  {
+    "no": 35,
+    "date": "2017-03-27",
+    "content": "SEN 현수막(발대식)",
+    "in_charge": "김수진",
+    "amount": -55000,
+    "clientId": 1
+  },
+  {
+    "no": 36,
+    "date": "2017-04-08",
+    "content": "MYSC Annual Report 500부",
+    "in_charge": "나미소",
+    "amount": -1210000,
+    "clientId": 1
+  },
+  {
+    "no": 37,
+    "date": "2017-04-13",
+    "content": "UN크로니클 7호",
+    "in_charge": "김정태, 최희재",
+    "amount": -1760000,
+    "clientId": 1
+  },
+  {
+    "no": 38,
+    "date": "2017-04-14",
+    "content": "SEN 행사 현수막(Christopher Lee)",
+    "in_charge": "김수진",
+    "amount": -132000,
+    "clientId": 1
+  },
+  {
+    "no": 39,
+    "date": "2017-04-18",
+    "content": "PLAYKIT 리플렛 출력",
+    "in_charge": "정지연",
+    "amount": -66000,
+    "clientId": 1
+  },
+  {
+    "no": 40,
+    "date": "2017-05-19",
+    "content": "명함 2건(김선미, 김덕유 님)",
+    "in_charge": "나미소",
+    "amount": -33000,
+    "clientId": 1
+  },
+  {
+    "no": 41,
+    "date": "2017-06-02",
+    "content": "생애주기 기반 ~ 배너",
+    "in_charge": "이예지",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 42,
+    "date": "2017-06-07",
+    "content": "MYSC AR 영문 200부",
+    "in_charge": "나미소",
+    "amount": -946000,
+    "clientId": 1
+  },
+  {
+    "no": 43,
+    "date": "2017-06-09",
+    "content": "MYSC 명함(김정태 님)",
+    "in_charge": "나미소",
+    "amount": -16500,
+    "clientId": 1
+  },
+  {
+    "no": 44,
+    "date": "2017-06-12",
+    "content": "SVCA 인쇄물",
+    "in_charge": "SEN 김수진 님",
+    "amount": -199100,
+    "clientId": 1
+  },
+  {
+    "no": 45,
+    "date": "2017-06-30",
+    "content": "SEN SSC 보고대회 현수막",
+    "in_charge": "SEN 김수진",
+    "amount": -44000,
+    "clientId": 1
+  },
+  {
+    "no": 46,
+    "date": "2017-07-20",
+    "content": "정진호 회장님 명함 2건(에폭시200매)",
+    "in_charge": "김혜원",
+    "amount": -77000,
+    "clientId": 1
+  },
+  {
+    "no": 47,
+    "date": "2017-08-18",
+    "content": "명함 3건(김정태, 이정선 님)",
+    "in_charge": "나미소",
+    "amount": -88000,
+    "clientId": 1
+  },
+  {
+    "no": 48,
+    "date": "2017-08-26",
+    "content": "명함 2건(정진호 님)",
+    "in_charge": "김혜원",
+    "amount": -69300,
+    "clientId": 1
+  },
+  {
+    "no": 49,
+    "date": "2017-09-22",
+    "content": "초과입금 건",
+    "in_charge": "이은진",
+    "amount": 30000,
+    "clientId": 1
+  },
+  {
+    "no": 50,
+    "date": "2017-09-25",
+    "content": "전 사 명함",
+    "in_charge": "나미소",
+    "amount": -319000,
+    "clientId": 1
+  },
+  {
+    "no": 51,
+    "date": "2017-10-18",
+    "content": "Grillbag 인쇄물",
+    "in_charge": "김덕유",
+    "amount": -242000,
+    "clientId": 1
+  },
+  {
+    "no": 52,
+    "date": "2017-10-24",
+    "content": "MYSF 명함 2건",
+    "in_charge": "나미소",
+    "amount": -33000,
+    "clientId": 1
+  },
+  {
+    "no": 53,
+    "date": "2017-10-31",
+    "content": "그릴백 메쉬배너",
+    "in_charge": "김지현",
+    "amount": -88000,
+    "clientId": 1
+  },
+  {
+    "no": 54,
+    "date": "2017-10-31",
+    "content": "그릴백 포스터(실사)",
+    "in_charge": "나미소",
+    "amount": -38500,
+    "clientId": 1
+  },
+  {
+    "no": 55,
+    "date": "2017-11-29",
+    "content": "대봉투, 소봉투 인쇄",
+    "in_charge": "나미소",
+    "amount": -132000,
+    "clientId": 1
+  },
+  {
+    "no": 56,
+    "date": "2017-11-30",
+    "content": "용광로 건 입금",
+    "in_charge": "이회영",
+    "amount": 2300000,
+    "clientId": 1
+  },
+  {
+    "no": 57,
+    "date": "2017-11-30",
+    "content": "용광로 포스터 리플렛 외",
+    "in_charge": "이회영",
+    "amount": -562100,
+    "clientId": 1
+  },
+  {
+    "no": 58,
+    "date": "2017-11-30",
+    "content": "용광로 현수막, 배너",
+    "in_charge": "이회영",
+    "amount": -106700,
+    "clientId": 1
+  },
+  {
+    "no": 59,
+    "date": "2017-11-30",
+    "content": "선지급 내용 입금",
+    "in_charge": "김세은",
+    "amount": 5621000,
+    "clientId": 1
+  },
+  {
+    "no": 60,
+    "date": "2017-12-09",
+    "content": "Grillbag 메뉴 (Error)",
+    "in_charge": "김덕유",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 61,
+    "date": "2017-12-27",
+    "content": "메리이어 현수막, 폼보드",
+    "in_charge": "나미소",
+    "amount": -108900,
+    "clientId": 1
+  },
+  {
+    "no": 62,
+    "date": "2017-12-28",
+    "content": "통일과나눔",
+    "in_charge": "이회영",
+    "amount": 201450,
+    "clientId": 1
+  },
+  {
+    "no": 63,
+    "date": "2017-12-28",
+    "content": "통일과 나눔",
+    "in_charge": "이회영",
+    "amount": -55000,
+    "clientId": 1
+  },
+  {
+    "no": 64,
+    "date": "2018-01-18",
+    "content": "소사마을기업 관련",
+    "in_charge": "김지현",
+    "amount": 4400000,
+    "clientId": 1
+  },
+  {
+    "no": 65,
+    "date": "2018-01-25",
+    "content": "Grillbag 메뉴",
+    "in_charge": "김덕유",
+    "amount": -27500,
+    "clientId": 1
+  },
+  {
+    "no": 66,
+    "date": "2018-01-30",
+    "content": "워크숍 현수막(사회공헌플랫폼~)",
+    "in_charge": "이예지",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 67,
+    "date": "2018-01-30",
+    "content": "배너, 현수막(유망중소기업이노베이션~)",
+    "in_charge": "김세은",
+    "amount": -88000,
+    "clientId": 1
+  },
+  {
+    "no": 68,
+    "date": "2018-02-05",
+    "content": "용광로 배너 현수막 외",
+    "in_charge": "이회영",
+    "amount": -94600,
+    "clientId": 1
+  },
+  {
+    "no": 69,
+    "date": "2018-02-05",
+    "content": "용광로 배너 현수막 외",
+    "in_charge": "이회영",
+    "amount": -256300,
+    "clientId": 1
+  },
+  {
+    "no": 70,
+    "date": "2018-02-12",
+    "content": "소사마을 액자(인화지출력)",
+    "in_charge": "김덕유",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 71,
+    "date": "2018-02-14",
+    "content": "스토리북 개발 및 제책 (한양)",
+    "in_charge": "김지현",
+    "amount": 6000000,
+    "clientId": 1
+  },
+  {
+    "no": 72,
+    "date": "2018-02-26",
+    "content": "명함인쇄(김정태 대표님)",
+    "in_charge": "김혜원",
+    "amount": -110000,
+    "clientId": 1
+  },
+  {
+    "no": 73,
+    "date": "2018-03-02",
+    "content": "아이디어용광로 스토리북",
+    "in_charge": "정지연",
+    "amount": -1485000,
+    "clientId": 1
+  },
+  {
+    "no": 74,
+    "date": "2018-03-02",
+    "content": "네팔 엽서",
+    "in_charge": "나미소",
+    "amount": -65450,
+    "clientId": 1
+  },
+  {
+    "no": 75,
+    "date": "2018-03-06",
+    "content": "명함(박용화 님)",
+    "in_charge": "박용화",
+    "amount": -25300,
+    "clientId": 1
+  },
+  {
+    "no": 76,
+    "date": "2018-03-07",
+    "content": "SEN 리쿠르팅, 퀵",
+    "in_charge": "김수진, 김혜원",
+    "amount": -938650,
+    "clientId": 1
+  },
+  {
+    "no": 77,
+    "date": "2018-03-09",
+    "content": "국민디자인단 매뉴얼 인쇄",
+    "in_charge": "김덕유",
+    "amount": -1540000,
+    "clientId": 1
+  },
+  {
+    "no": 78,
+    "date": "2018-03-09",
+    "content": "국민디자인단 매뉴얼 발송 등 기타",
+    "in_charge": "김덕유",
+    "amount": -1720400,
+    "clientId": 1
+  },
+  {
+    "no": 79,
+    "date": "2018-03-09",
+    "content": "토인즈 인쇄물 3종",
+    "in_charge": "김지현 님(토인즈 김민지)",
+    "amount": -500000,
+    "clientId": 1
+  },
+  {
+    "no": 80,
+    "date": "2018-03-09",
+    "content": "디자인페어 각종인쇄",
+    "in_charge": "박용화",
+    "amount": -1593900,
+    "clientId": 1
+  },
+  {
+    "no": 81,
+    "date": "2018-03-12",
+    "content": "비콥질문세트",
+    "in_charge": "김세은",
+    "amount": -1122000,
+    "clientId": 1
+  },
+  {
+    "no": 82,
+    "date": "2018-03-19",
+    "content": "하나파워온챌린지 스토리북",
+    "in_charge": "정지연",
+    "amount": -2050000,
+    "clientId": 1
+  },
+  {
+    "no": 83,
+    "date": "2018-03-19",
+    "content": "사이를연결하는담쟁이처럼",
+    "in_charge": "김혜원",
+    "amount": -815100,
+    "clientId": 1
+  },
+  {
+    "no": 84,
+    "date": "2018-03-19",
+    "content": "SEN 명함 1건 추가",
+    "in_charge": "김혜원",
+    "amount": -13200,
+    "clientId": 1
+  },
+  {
+    "no": 85,
+    "date": "2018-03-27",
+    "content": "명함 인쇄(8건 진급자 유훈 님)",
+    "in_charge": "박용화",
+    "amount": -176000,
+    "clientId": 1
+  },
+  {
+    "no": 86,
+    "date": "2018-04-04",
+    "content": "명함 인쇄(SEN)",
+    "in_charge": "김혜원",
+    "amount": -30800,
+    "clientId": 1
+  },
+  {
+    "no": 87,
+    "date": "2018-04-04",
+    "content": "공공섹터 사회적가치창출포럼",
+    "in_charge": "나미소",
+    "amount": -1041700,
+    "clientId": 1
+  },
+  {
+    "no": 88,
+    "date": "2018-04-05",
+    "content": "혁신을 디자인하는 사고법",
+    "in_charge": "김혜원",
+    "amount": -550000,
+    "clientId": 1
+  },
+  {
+    "no": 89,
+    "date": "2018-04-08",
+    "content": "이예지 님 명함",
+    "in_charge": "박용화",
+    "amount": -25300,
+    "clientId": 1
+  },
+  {
+    "no": 90,
+    "date": "2018-04-10",
+    "content": "유망중소기업 사업결과_ 보고서 및 교재",
+    "in_charge": "김세은",
+    "amount": -1980000,
+    "clientId": 1
+  },
+  {
+    "no": 91,
+    "date": "2018-05-02",
+    "content": "유망중소기업 사업결과_ 보고서 및 교재(재인쇄)",
+    "in_charge": "김세은",
+    "amount": -1210000,
+    "clientId": 1
+  },
+  {
+    "no": 92,
+    "date": "2018-05-16",
+    "content": "두시반프로젝트 지원금 적립",
+    "in_charge": "김세은",
+    "amount": -1300000,
+    "clientId": 1
+  },
+  {
+    "no": 93,
+    "date": "2018-05-17",
+    "content": "SEN 명함 (최윤정 님)",
+    "in_charge": "나미소",
+    "amount": -16500,
+    "clientId": 1
+  },
+  {
+    "no": 94,
+    "date": "2018-05-17",
+    "content": "하나파워온임팩트 브로슈어 포스터 디자인 적립",
+    "in_charge": "정지연",
+    "amount": 500000,
+    "clientId": 1
+  },
+  {
+    "no": 95,
+    "date": "2018-05-21",
+    "content": "소사마을 최종 결과보고서",
+    "in_charge": "나미소",
+    "amount": -501600,
+    "clientId": 1
+  },
+  {
+    "no": 96,
+    "date": "2018-07-12",
+    "content": "통일과나눔 관련 입금",
+    "in_charge": "김원희 님",
+    "amount": 110000,
+    "clientId": 1
+  },
+  {
+    "no": 97,
+    "date": "2018-08-13",
+    "content": "(SEN) 명함인쇄 26건",
+    "in_charge": "최윤정 님",
+    "amount": -286000,
+    "clientId": 1
+  },
+  {
+    "no": 98,
+    "date": "2018-08-13",
+    "content": "엑스트라마일 명함 1건",
+    "in_charge": "박용화 님",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 99,
+    "date": "2018-08-21",
+    "content": "한국철도공사 입금",
+    "in_charge": "나미소 님",
+    "amount": 880000,
+    "clientId": 1
+  },
+  {
+    "no": 100,
+    "date": "2018-08-21",
+    "content": "사회적가치 창출 포럼 발표자료집 70권(",
+    "in_charge": "나미소 님",
+    "amount": -588500,
+    "clientId": 1
+  },
+  {
+    "no": 101,
+    "date": "2018-09-06",
+    "content": "계산서 발행 및 입금",
+    "in_charge": "김혜원 님",
+    "amount": 176000,
+    "clientId": 1
+  },
+  {
+    "no": 102,
+    "date": "2018-09-06",
+    "content": "사회적가치 창출 포럼 발표자료집 70권(",
+    "in_charge": "김혜원 님",
+    "amount": 588500,
+    "clientId": 1
+  },
+  {
+    "no": 103,
+    "date": "2018-09-28",
+    "content": "스토리북 30부 출력 및 디자인 건 입금(완료)",
+    "in_charge": "이회영 님",
+    "amount": 1739008,
+    "clientId": 1
+  },
+  {
+    "no": 104,
+    "date": "2018-09-28",
+    "content": "스토리북 50부 출력 및 배송 건",
+    "in_charge": "이회영 님",
+    "amount": -1207800,
+    "clientId": 1
+  },
+  {
+    "no": 105,
+    "date": "2018-10-11",
+    "content": "성과확산 스토리북 편집, 제작 입금",
+    "in_charge": "이회영 님",
+    "amount": 5000000,
+    "clientId": 1
+  },
+  {
+    "no": 106,
+    "date": "2018-10-11",
+    "content": "IDEO 인간중심디자인키트(완료-변경 1012)",
+    "in_charge": "나미소, 김혜원 님",
+    "amount": -803000,
+    "clientId": 1
+  },
+  {
+    "no": 107,
+    "date": "2018-10-19",
+    "content": "명함 5건 인쇄",
+    "in_charge": "나미소",
+    "amount": -110000,
+    "clientId": 1
+  },
+  {
+    "no": 108,
+    "date": "2018-11-13",
+    "content": "SEN 명함",
+    "in_charge": "나미소",
+    "amount": -16500,
+    "clientId": 1
+  },
+  {
+    "no": 109,
+    "date": "2018-11-22",
+    "content": "하나 POI 건 입금",
+    "in_charge": "이은진 님",
+    "amount": 2970000,
+    "clientId": 1
+  },
+  {
+    "no": 110,
+    "date": "2018-11-22",
+    "content": "하나 POI 스토리북 실제작 건",
+    "in_charge": "이은진 님",
+    "amount": -1584000,
+    "clientId": 1
+  },
+  {
+    "no": 111,
+    "date": "2018-11-22",
+    "content": "하나 POI 행사 인쇄물",
+    "in_charge": "이회영 님",
+    "amount": -489500,
+    "clientId": 1
+  },
+  {
+    "no": 112,
+    "date": "2018-11-22",
+    "content": "하나 POI 리플렛 외",
+    "in_charge": "정지연 님",
+    "amount": 869000,
+    "clientId": 1
+  },
+  {
+    "no": 113,
+    "date": "2018-11-22",
+    "content": "하나 POI 현수막, 배너",
+    "in_charge": "정지연 님",
+    "amount": 231000,
+    "clientId": 1
+  },
+  {
+    "no": 114,
+    "date": "2018-11-28",
+    "content": "SEN 통해 적립",
+    "in_charge": "이회영",
+    "amount": 2574420,
+    "clientId": 1
+  },
+  {
+    "no": 115,
+    "date": "2018-11-28",
+    "content": "AIA 행사 인쇄물 외",
+    "in_charge": "이회영 님",
+    "amount": -1199000,
+    "clientId": 1
+  },
+  {
+    "no": 116,
+    "date": "2018-12-06",
+    "content": "3C 프로그램 교재 적립",
+    "in_charge": "이은진",
+    "amount": 3520000,
+    "clientId": 1
+  },
+  {
+    "no": 117,
+    "date": "2018-12-28",
+    "content": "AIA 스토리북 700부 추가 인쇄",
+    "in_charge": "이회영",
+    "amount": -1771000,
+    "clientId": 1
+  },
+  {
+    "no": 118,
+    "date": "2018-12-28",
+    "content": "하나스토리북 인쇄제책 및 발송",
+    "in_charge": "이예지",
+    "amount": -2169200,
+    "clientId": 1
+  },
+  {
+    "no": 119,
+    "date": "2018-12-28",
+    "content": "성과확산콘텐츠, 추진결과보고서 적립",
+    "in_charge": "김지현",
+    "amount": 4400000,
+    "clientId": 1
+  },
+  {
+    "no": 120,
+    "date": "2018-12-28",
+    "content": "성과확산콘텐츠 추가 적립",
+    "in_charge": "김지현",
+    "amount": 2420000,
+    "clientId": 1
+  },
+  {
+    "no": 121,
+    "date": "2019-02-14",
+    "content": "명함인쇄",
+    "in_charge": "나미소 님",
+    "amount": -499400,
+    "clientId": 1
+  },
+  {
+    "no": 122,
+    "date": "2019-02-25",
+    "content": "명함인쇄(오승원 님)",
+    "in_charge": "나미소 님",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 123,
+    "date": "2019-03-14",
+    "content": "POI 인쇄 예산 적립",
+    "in_charge": "김원희 님",
+    "amount": 3000000,
+    "clientId": 1
+  },
+  {
+    "no": 124,
+    "date": "2019-03-28",
+    "content": "포스터, 리플렛 출력 및 각개 발송",
+    "in_charge": "김원희 님",
+    "amount": -611600,
+    "clientId": 1
+  },
+  {
+    "no": 125,
+    "date": "2019-04-04",
+    "content": "3C 프로그램 교재 인쇄 (예정)",
+    "in_charge": "박용화 님",
+    "amount": -1331000,
+    "clientId": 1
+  },
+  {
+    "no": 126,
+    "date": "2019-04-09",
+    "content": "AIA 이노베이션 적립",
+    "in_charge": "하윤지 님",
+    "amount": 317900,
+    "clientId": 1
+  },
+  {
+    "no": 127,
+    "date": "2019-04-10",
+    "content": "AIA 현수막 외",
+    "in_charge": "하윤지 님",
+    "amount": -193600,
+    "clientId": 1
+  },
+  {
+    "no": 128,
+    "date": "2019-04-17",
+    "content": "POC 현수막,배너,브로슈어 외",
+    "in_charge": "김홍일 님",
+    "amount": -524700,
+    "clientId": 1
+  },
+  {
+    "no": 129,
+    "date": "2019-04-17",
+    "content": "(POI) 현수막2, 배너2, 폼보드",
+    "in_charge": "김원희 님",
+    "amount": -132000,
+    "clientId": 1
+  },
+  {
+    "no": 130,
+    "date": "2019-04-18",
+    "content": "(POI) 명함 1건",
+    "in_charge": "이은진 님",
+    "amount": -18700,
+    "clientId": 1
+  },
+  {
+    "no": 131,
+    "date": "2019-04-26",
+    "content": "(POI)포스터, 브로슈어 제작 각개발송",
+    "in_charge": "김원희 님",
+    "amount": -297000,
+    "clientId": 1
+  },
+  {
+    "no": 132,
+    "date": "2019-04-29",
+    "content": "3C 프로그램 교재 추가 인쇄",
+    "in_charge": "박용화 님",
+    "amount": -693000,
+    "clientId": 1
+  },
+  {
+    "no": 133,
+    "date": "2019-05-02",
+    "content": "not just insight Note 인쇄",
+    "in_charge": "나미소 님",
+    "amount": -5390000,
+    "clientId": 1
+  },
+  {
+    "no": 134,
+    "date": "2019-05-07",
+    "content": "HALF A STEP 브로슈어, 판넬 인쇄",
+    "in_charge": "고인효 님",
+    "amount": -354200,
+    "clientId": 1
+  },
+  {
+    "no": 135,
+    "date": "2019-05-10",
+    "content": "MYSC 브로슈어",
+    "in_charge": "나미소 님",
+    "amount": -522500,
+    "clientId": 1
+  },
+  {
+    "no": 136,
+    "date": "2019-07-11",
+    "content": "스토리북 기획 및 디자인",
+    "in_charge": "정지연 님",
+    "amount": 3960000,
+    "clientId": 1
+  },
+  {
+    "no": 137,
+    "date": "2019-07-11",
+    "content": "사내기업가툴킷 잔액",
+    "in_charge": "김세은 님",
+    "amount": -1848000,
+    "clientId": 1
+  },
+  {
+    "no": 138,
+    "date": "2019-07-11",
+    "content": "대봉투 인쇄",
+    "in_charge": "나미소 님",
+    "amount": -132000,
+    "clientId": 1
+  },
+  {
+    "no": 139,
+    "date": "2019-07-13",
+    "content": "[하나 파워 온 임팩트] 스토리북 외",
+    "in_charge": "김원희 님",
+    "amount": -1597200,
+    "clientId": 1
+  },
+  {
+    "no": 140,
+    "date": "2019-07-25",
+    "content": "7월 명함",
+    "in_charge": "나미소 님",
+    "amount": -136400,
+    "clientId": 1
+  },
+  {
+    "no": 141,
+    "date": "2019-07-29",
+    "content": "애뉴얼리포트",
+    "in_charge": "김덕유 님",
+    "amount": -1000000,
+    "clientId": 1
+  },
+  {
+    "no": 142,
+    "date": "2019-08-29",
+    "content": "w엑셀러레이팅 프로그램",
+    "in_charge": "이예지 님",
+    "amount": 1890267,
+    "clientId": 1
+  },
+  {
+    "no": 143,
+    "date": "2019-08-29",
+    "content": "w엑셀러레이팅 프로그램 포스터 외",
+    "in_charge": "이예지 님",
+    "amount": -345400,
+    "clientId": 1
+  },
+  {
+    "no": 144,
+    "date": "2019-08-30",
+    "content": "8월 명함 1건",
+    "in_charge": "김혜원 님",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 145,
+    "date": "2019-09-20",
+    "content": "사내기업가 툴킷 제작건 토탈 금액",
+    "in_charge": "하윤지 님",
+    "amount": 9000000,
+    "clientId": 1
+  },
+  {
+    "no": 146,
+    "date": "2019-09-23",
+    "content": "사내기업가 툴킷 제작건 (다마스 포함)",
+    "in_charge": "하윤지 님",
+    "amount": -1573000,
+    "clientId": 1
+  },
+  {
+    "no": 147,
+    "date": "2019-09-30",
+    "content": "9월 명함 1건",
+    "in_charge": "김혜원 님",
+    "amount": -17600,
+    "clientId": 1
+  },
+  {
+    "no": 148,
+    "date": "2019-10-22",
+    "content": "하나 POI 포스터, 배송",
+    "in_charge": "김원희 님",
+    "amount": -272800,
+    "clientId": 1
+  },
+  {
+    "no": 149,
+    "date": "2019-10-25",
+    "content": "10월 명함",
+    "in_charge": "나미소 님",
+    "amount": -72600,
+    "clientId": 1
+  },
+  {
+    "no": 150,
+    "date": "2019-10-28",
+    "content": "하나POI 리플렛 인쇄",
+    "in_charge": "정지연 님",
+    "amount": -165000,
+    "clientId": 1
+  },
+  {
+    "no": 151,
+    "date": "2019-10-28",
+    "content": "하나POI 배너 인쇄",
+    "in_charge": "정지연 님",
+    "amount": -25300,
+    "clientId": 1
+  },
+  {
+    "no": 152,
+    "date": "2019-10-30",
+    "content": "SVCA 현수막, 배너, 폼보드",
+    "in_charge": "강에나 님",
+    "amount": -221100,
+    "clientId": 1
+  },
+  {
+    "no": 153,
+    "date": "2019-11-11",
+    "content": "2018 AR 국문 추가제작(600부)",
+    "in_charge": "나미소 님",
+    "amount": -3267000,
+    "clientId": 1
+  },
+  {
+    "no": 154,
+    "date": "2019-11-11",
+    "content": "강원에너지결과보고서 40부",
+    "in_charge": "김지현 님",
+    "amount": -968000,
+    "clientId": 1
+  },
+  {
+    "no": 155,
+    "date": "2019-11-15",
+    "content": "SEN _ 성동구혁신경연대회로부터 잔액 이관",
+    "in_charge": "최윤정 님",
+    "amount": 1779500,
+    "clientId": 1
+  },
+  {
+    "no": 156,
+    "date": "2019-11-21",
+    "content": "AIA 제작물 인쇄",
+    "in_charge": "하윤지 님",
+    "amount": 6932100,
+    "clientId": 1
+  },
+  {
+    "no": 157,
+    "date": "2019-11-21",
+    "content": "AIA 제작물 인쇄 - 실견적",
+    "in_charge": "하윤지 님",
+    "amount": -5116100,
+    "clientId": 1
+  },
+  {
+    "no": 158,
+    "date": "2019-11-28",
+    "content": "문화예술 사업도약지원 사업 적립",
+    "in_charge": "하윤지 님",
+    "amount": 2915000,
+    "clientId": 1
+  },
+  {
+    "no": 159,
+    "date": "2019-11-29",
+    "content": "문화예술 사업도약지원 성과자료집 인쇄 및 제본",
+    "in_charge": "하윤지 님",
+    "amount": -1661000,
+    "clientId": 1
+  },
+  {
+    "no": 160,
+    "date": "2019-11-29",
+    "content": "문화예술 사업도약지원 관련 포스터 인쇄",
+    "in_charge": "하윤지 님",
+    "amount": -91300,
+    "clientId": 1
+  },
+  {
+    "no": 161,
+    "date": "2019-11-29",
+    "content": "11월 명함",
+    "in_charge": "나미소 님",
+    "amount": -59400,
+    "clientId": 1
+  },
+  {
+    "no": 162,
+    "date": "2019-11-29",
+    "content": "소셜벤처 글로벌진출사업",
+    "in_charge": "고인효 님",
+    "amount": 253000,
+    "clientId": 1
+  },
+  {
+    "no": 163,
+    "date": "2019-12-02",
+    "content": "소셜벤처 글로벌 진출사업 배너, 배너거치대 차감",
+    "in_charge": "고인효 님",
+    "amount": -129800,
+    "clientId": 1
+  },
+  {
+    "no": 164,
+    "date": "2019-12-03",
+    "content": "W엑셀러레이터",
+    "in_charge": "이예지 님",
+    "amount": 651300,
+    "clientId": 1
+  },
+  {
+    "no": 165,
+    "date": "2019-12-12",
+    "content": "SEN 신규명함",
+    "in_charge": "이혜련 님",
+    "amount": -49500,
+    "clientId": 1
+  },
+  {
+    "no": 166,
+    "date": "2019-12-18",
+    "content": "SEN 신규명함",
+    "in_charge": "이혜련 님",
+    "amount": -39600,
+    "clientId": 1
+  },
+  {
+    "no": 167,
+    "date": "2019-12-26",
+    "content": "EMA 2기 인쇄물 적립",
+    "in_charge": "하윤지 님",
+    "amount": 1650000,
+    "clientId": 1
+  },
+  {
+    "no": 168,
+    "date": "2019-12-26",
+    "content": "EMA 2기 인쇄물 차감",
+    "in_charge": "하윤지 님",
+    "amount": -300000,
+    "clientId": 1
+  },
+  {
+    "no": 169,
+    "date": "2019-12-26",
+    "content": "12월 명함 2건",
+    "in_charge": "나미소 님",
+    "amount": -70400,
+    "clientId": 1
+  },
+  {
+    "no": 170,
+    "date": "2019-12-26",
+    "content": "문화예술 사업도약지원 사업 적립",
+    "in_charge": "하윤지 님",
+    "amount": 1540000,
+    "clientId": 1
+  },
+  {
+    "no": 171,
+    "date": "2019-12-26",
+    "content": "사회적기업디자인컨설팅 결과보고서 적립",
+    "in_charge": "김지현 님",
+    "amount": 2354000,
+    "clientId": 1
+  },
+  {
+    "no": 172,
+    "date": "2020-01-21",
+    "content": "[MYSC]성동구이노스쿨_1,2차 무선제본",
+    "in_charge": "고인효 님",
+    "amount": -1903000,
+    "clientId": 1
+  },
+  {
+    "no": 173,
+    "date": "2020-01-21",
+    "content": "[MYSC]성동구이노스쿨_1,2차 - 퀵배송 1건",
+    "in_charge": "고인효 님",
+    "amount": -16500,
+    "clientId": 1
+  },
+  {
+    "no": 174,
+    "date": "2020-01-30",
+    "content": "1월 명함 3건",
+    "in_charge": "나미소 님",
+    "amount": -48400,
+    "clientId": 1
+  },
+  {
+    "no": 175,
+    "date": "2020-02-18",
+    "content": "엑스트라마일 개인투자조합 현수막",
+    "in_charge": "유자인 님",
+    "amount": -44000,
+    "clientId": 1
+  },
+  {
+    "no": 176,
+    "date": "2020-03-02",
+    "content": "2월 명함 5건",
+    "in_charge": "나미소 님",
+    "amount": -89100,
+    "clientId": 1
+  },
+  {
+    "no": 177,
+    "date": "2020-03-11",
+    "content": "sen 학생 명함",
+    "in_charge": "김민정 님",
+    "amount": -165000,
+    "clientId": 1
+  },
+  {
+    "no": 178,
+    "date": "2020-03-24",
+    "content": "SEN 수료증, 케이스",
+    "in_charge": "김민정 님",
+    "amount": -52800,
+    "clientId": 1
+  },
+  {
+    "no": 179,
+    "date": "2020-04-02",
+    "content": "SEN 대봉투 인쇄",
+    "in_charge": "김혜련 님",
+    "amount": -143000,
+    "clientId": 1
+  },
+  {
+    "no": 180,
+    "date": "2020-04-02",
+    "content": "3월 명함 7건",
+    "in_charge": "나미소 님",
+    "amount": -79200,
+    "clientId": 1
+  },
+  {
+    "no": 181,
+    "date": "2020-04-20",
+    "content": "투자조합 총회 현수막",
+    "in_charge": "이예지 님",
+    "amount": -24200,
+    "clientId": 1
+  },
+  {
+    "no": 182,
+    "date": "2020-04-29",
+    "content": "2019 애뉴얼 팜플렛 제작_AIA 적립금 사용",
+    "in_charge": "하윤지 님",
+    "amount": -1237500,
+    "clientId": 1
+  },
+  {
+    "no": 183,
+    "date": "2020-04-29",
+    "content": "4월 명함",
+    "in_charge": "나미소 님",
+    "amount": -74800,
+    "clientId": 1
+  },
+  {
+    "no": 184,
+    "date": "2020-05-04",
+    "content": "비랩코리아 브로슈어",
+    "in_charge": "정태은 님",
+    "amount": -275000,
+    "clientId": 1
+  },
+  {
+    "no": 185,
+    "date": "2020-05-29",
+    "content": "5월 명함 (유자인, 이은진, 유자인 님)",
+    "in_charge": "나미소 님",
+    "amount": -81400,
+    "clientId": 1
+  },
+  {
+    "no": 186,
+    "date": "2020-06-24",
+    "content": "6월 명함(조주흠, 김영우 님)",
+    "in_charge": "나미소 님",
+    "amount": -72600,
+    "clientId": 1
+  },
+  {
+    "no": 187,
+    "date": "2020-07-01",
+    "content": "2019 애뉴얼 팜플렛 제작 (영문)",
+    "in_charge": "하윤지 님",
+    "amount": -841500,
+    "clientId": 1
+  },
+  {
+    "no": 188,
+    "date": "2020-07-02",
+    "content": "Login to Mysc(그린라이트 중철)",
+    "in_charge": "김민경 님",
+    "amount": -286000,
+    "clientId": 1
+  },
+  {
+    "no": 189,
+    "date": "2020-08-04",
+    "content": "7월 명함(김원희 님)",
+    "in_charge": "김원희 님",
+    "amount": -30800,
+    "clientId": 1
+  },
+  {
+    "no": 190,
+    "date": "2020-08-11",
+    "content": "도서 인쇄(디자인씽킹가이드북)",
+    "in_charge": "김원희 님",
+    "amount": -3190000,
+    "clientId": 1
+  },
+  {
+    "no": 191,
+    "date": "2020-08-27",
+    "content": "8월 명함(단체, 이채원, 김선미 님)",
+    "in_charge": "나미소 님",
+    "amount": -254100,
+    "clientId": 1
+  },
+  {
+    "no": 192,
+    "date": "2020-09-17",
+    "content": "디자인씽킹 가이드북:IDEO의 인간 중심 디자인 3권",
+    "in_charge": "정유나",
+    "amount": -60000,
+    "clientId": 1
+  },
+  {
+    "no": 193,
+    "date": "2020-09-28",
+    "content": "9월 명함(강신일 님)",
+    "in_charge": "강신일 님",
+    "amount": -38500,
+    "clientId": 1
+  },
+  {
+    "no": 194,
+    "date": "2020-10-14",
+    "content": "대봉투 인쇄",
+    "in_charge": "나미소 님",
+    "amount": -110000,
+    "clientId": 1
+  },
+  {
+    "no": 195,
+    "date": "2020-10-29",
+    "content": "10월 명함(이예지 님 외)",
+    "in_charge": "나미소 님",
+    "amount": -148500,
+    "clientId": 1
+  },
+  {
+    "no": 196,
+    "date": "2020-11-27",
+    "content": "에너지 문제정의 매뉴얼 인쇄",
+    "in_charge": "박효진 님",
+    "amount": 6600000,
+    "clientId": 1
+  },
+  {
+    "no": 197,
+    "date": "2020-11-27",
+    "content": "에너지 문제정의 매뉴얼 인쇄",
+    "in_charge": "박효진 님",
+    "amount": -1787500,
+    "clientId": 1
+  },
+  {
+    "no": 198,
+    "date": "2020-11-30",
+    "content": "11월 명함 (김정태 님 외)",
+    "in_charge": "나미소 님",
+    "amount": -182600,
+    "clientId": 1
+  },
+  {
+    "no": 199,
+    "date": "2020-12-11",
+    "content": "현수막 제작",
+    "in_charge": "김영우 님",
+    "amount": -63800,
+    "clientId": 1
+  },
+  {
+    "no": 200,
+    "date": "2020-12-21",
+    "content": "임팩트리포트 디자인",
+    "in_charge": "박효진 님",
+    "amount": -605000,
+    "clientId": 1
+  },
+  {
+    "no": 201,
+    "date": "2020-12-23",
+    "content": "크리스마스 엽서 퀵 발송",
+    "in_charge": "나미소 님",
+    "amount": -70000,
+    "clientId": 1
+  },
+  {
+    "no": 202,
+    "date": "2020-12-23",
+    "content": "12월 명함(노성진, 하윤지 님)",
+    "in_charge": "나미소 님",
+    "amount": -77000,
+    "clientId": 1
+  },
+  {
+    "no": 203,
+    "date": "2020-12-31",
+    "content": "베다리랑 브랜드 가이드 25부 출력 및 배송",
+    "in_charge": "나미소 님",
+    "amount": -770000,
+    "clientId": 1
+  },
+  {
+    "no": 204,
+    "date": "2020-12-31",
+    "content": "보고서 18부(컬러 출력 후 택배 발송)",
+    "in_charge": "류민지 님",
+    "amount": -487300,
+    "clientId": 1
+  },
+  {
+    "no": 205,
+    "date": "2021-01-20",
+    "content": "사내벤처 액셀러레이팅 디자인",
+    "in_charge": "정지윤 님",
+    "amount": 1100000,
+    "clientId": 1
+  },
+  {
+    "no": 206,
+    "date": "2021-01-21",
+    "content": "보고서 3종 출력 및 제본",
+    "in_charge": "김세은 님",
+    "amount": -438900,
+    "clientId": 1
+  },
+  {
+    "no": 207,
+    "date": "2021-01-25",
+    "content": "제주 명함 2건",
+    "in_charge": "정현정 님",
+    "amount": -35200,
+    "clientId": 1
+  },
+  {
+    "no": 208,
+    "date": "2021-01-27",
+    "content": "현수막 제작",
+    "in_charge": "홍지현 님",
+    "amount": -34100,
+    "clientId": 1
+  },
+  {
+    "no": 209,
+    "date": "2021-02-17",
+    "content": "사내벤쳐 현수막 외",
+    "in_charge": "정지윤 님",
+    "amount": -138600,
+    "clientId": 1
+  },
+  {
+    "no": 210,
+    "date": "2021-02-22",
+    "content": "COE 책자",
+    "in_charge": "나미소 님",
+    "amount": -446600,
+    "clientId": 1
+  },
+  {
+    "no": 211,
+    "date": "2021-03-02",
+    "content": "질문세트 인쇄",
+    "in_charge": "김세은 님",
+    "amount": -1276000,
+    "clientId": 1
+  },
+  {
+    "no": 212,
+    "date": "2021-03-02",
+    "content": "질문세트 디자인",
+    "in_charge": "김세은 님",
+    "amount": -770000,
+    "clientId": 1
+  },
+  {
+    "no": 213,
+    "date": "2021-03-05",
+    "content": "2월 명함 5건",
+    "in_charge": "김원희 님",
+    "amount": -137500,
+    "clientId": 1
+  },
+  {
+    "no": 214,
+    "date": "2021-03-08",
+    "content": "SEN StudentClub 명함",
+    "in_charge": "김민정 님",
+    "amount": -181500,
+    "clientId": 1
+  },
+  {
+    "no": 215,
+    "date": "2021-03-31",
+    "content": "3월 명함 3건",
+    "in_charge": "나미소 님",
+    "amount": -79200,
+    "clientId": 1
+  },
+  {
+    "no": 216,
+    "date": "2021-04-05",
+    "content": "SEN 명함(상임이사님)",
+    "in_charge": "이혜련 님",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 217,
+    "date": "2021-04-07",
+    "content": "애뉴얼리포트 인쇄 (500권)",
+    "in_charge": "나미소 님",
+    "amount": -1166000,
+    "clientId": 1
+  },
+  {
+    "no": 218,
+    "date": "2021-04-29",
+    "content": "매거진 SIL vol.1",
+    "in_charge": "김민경 님",
+    "amount": -2277000,
+    "clientId": 1
+  },
+  {
+    "no": 219,
+    "date": "2021-04-30",
+    "content": "4월 명함 8건",
+    "in_charge": "나미소 님",
+    "amount": -191400,
+    "clientId": 1
+  },
+  {
+    "no": 220,
+    "date": "2021-04-30",
+    "content": "4월 김선미 님 명함 추가",
+    "in_charge": "김선미 님",
+    "amount": -41800,
+    "clientId": 1
+  },
+  {
+    "no": 221,
+    "date": "2021-05-03",
+    "content": "얼스팩 네임태그 제작",
+    "in_charge": "나미소 님",
+    "amount": -20900,
+    "clientId": 1
+  },
+  {
+    "no": 222,
+    "date": "2021-05-06",
+    "content": "제주명함 2건",
+    "in_charge": "정지연 님",
+    "amount": -38500,
+    "clientId": 1
+  },
+  {
+    "no": 223,
+    "date": "2021-05-25",
+    "content": "5월 명함 (정지연 님 ~ 정유나 님)",
+    "in_charge": "나미소 님",
+    "amount": -207900,
+    "clientId": 1
+  },
+  {
+    "no": 224,
+    "date": "2021-06-03",
+    "content": "머쓱이 스티커 50매",
+    "in_charge": "김정은 님",
+    "amount": -55000,
+    "clientId": 1
+  },
+  {
+    "no": 225,
+    "date": "2021-06-08",
+    "content": "AVPN 명함 2건",
+    "in_charge": "강에나 님",
+    "amount": -49500,
+    "clientId": 1
+  },
+  {
+    "no": 226,
+    "date": "2021-06-17",
+    "content": "SEN 대봉투 스티커",
+    "in_charge": "이혜련 님",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 227,
+    "date": "2021-06-17",
+    "content": "오픈이노베이션 디자인 및 제책",
+    "in_charge": "이예지 님",
+    "amount": -5451016,
+    "clientId": 1
+  },
+  {
+    "no": 228,
+    "date": "2021-07-22",
+    "content": "6,7월 명함",
+    "in_charge": "나미소 님",
+    "amount": -216700,
+    "clientId": 1
+  },
+  {
+    "no": 229,
+    "date": "2021-08-23",
+    "content": "8월 명함",
+    "in_charge": "나미소 님",
+    "amount": -226600,
+    "clientId": 1
+  },
+  {
+    "no": 230,
+    "date": "2021-08-23",
+    "content": "AVPN 명함",
+    "in_charge": "김다현 님",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 231,
+    "date": "2021-08-26",
+    "content": "대봉투 인쇄",
+    "in_charge": "장란영 님",
+    "amount": -132000,
+    "clientId": 1
+  },
+  {
+    "no": 232,
+    "date": "2021-08-30",
+    "content": "SEN 학생 명함",
+    "in_charge": "김민정 님",
+    "amount": -191400,
+    "clientId": 1
+  },
+  {
+    "no": 233,
+    "date": "2021-09-27",
+    "content": "9월 명함",
+    "in_charge": "나미소 님",
+    "amount": -178200,
+    "clientId": 1
+  },
+  {
+    "no": 234,
+    "date": "2021-11-05",
+    "content": "AVPN 명함",
+    "in_charge": "이종현 님",
+    "amount": -44000,
+    "clientId": 1
+  },
+  {
+    "no": 235,
+    "date": "2021-11-19",
+    "content": "애뉴얼 팜플렛 200부",
+    "in_charge": "나미소 님",
+    "amount": -968000,
+    "clientId": 1
+  },
+  {
+    "no": 236,
+    "date": "2021-11-26",
+    "content": "11월 명함",
+    "in_charge": "나미소 님",
+    "amount": -165000,
+    "clientId": 1
+  },
+  {
+    "no": 237,
+    "date": "2021-11-30",
+    "content": "미더 퀵 비용",
+    "in_charge": "정지윤 님",
+    "amount": -22000,
+    "clientId": 1
+  },
+  {
+    "no": 238,
+    "date": "2021-12-15",
+    "content": "스토리북 적립",
+    "in_charge": "정지윤 님",
+    "amount": 3866233,
+    "clientId": 1
+  },
+  {
+    "no": 239,
+    "date": "2021-12-29",
+    "content": "12월 명함",
+    "in_charge": "나미소 님",
+    "amount": -66000,
+    "clientId": 1
+  },
+  {
+    "no": 240,
+    "date": "2022-01-05",
+    "content": "AVPN 명함",
+    "in_charge": "이종현 님",
+    "amount": -25300,
+    "clientId": 1
+  },
+  {
+    "no": 241,
+    "date": "2022-01-25",
+    "content": "소소한소통 인쇄 건",
+    "in_charge": "김원희 님",
+    "amount": -195000,
+    "clientId": 1
+  },
+  {
+    "no": 242,
+    "date": "2022-02-23",
+    "content": "1월 명함",
+    "in_charge": "나미소 님",
+    "amount": -110000,
+    "clientId": 1
+  },
+  {
+    "no": 243,
+    "date": "2022-02-24",
+    "content": "AVPN 명함",
+    "in_charge": "김원희 님",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 244,
+    "date": "2022-03-23",
+    "content": "신한 스퀘어브릿지 제주 스토리북 디자인",
+    "in_charge": "이은진 님",
+    "amount": 1100000,
+    "clientId": 1
+  },
+  {
+    "no": 245,
+    "date": "2022-03-23",
+    "content": "거꾸로캠퍼스 작업건",
+    "in_charge": "장란영 님",
+    "amount": -407000,
+    "clientId": 1
+  },
+  {
+    "no": 246,
+    "date": "2022-03-31",
+    "content": "3월 명함",
+    "in_charge": "나미소 님",
+    "amount": -102300,
+    "clientId": 1
+  },
+  {
+    "no": 247,
+    "date": "2022-04-21",
+    "content": "4월 명함",
+    "in_charge": "나미소 님",
+    "amount": -118800,
+    "clientId": 1
+  },
+  {
+    "no": 248,
+    "date": "2022-05-31",
+    "content": "5월 명함 7건",
+    "in_charge": "나미소 님",
+    "amount": -199100,
+    "clientId": 1
+  },
+  {
+    "no": 249,
+    "date": "2022-06-13",
+    "content": "0607 애뉴얼포스터",
+    "in_charge": "나미소 님",
+    "amount": -465300,
+    "clientId": 1
+  },
+  {
+    "no": 250,
+    "date": "2022-06-27",
+    "content": "대봉투 500매",
+    "in_charge": "나미소님",
+    "amount": -110000,
+    "clientId": 1
+  },
+  {
+    "no": 251,
+    "date": "2022-06-28",
+    "content": "폼보드 11종 퀵(다마스)",
+    "in_charge": "나미소 님",
+    "amount": -136400,
+    "clientId": 1
+  },
+  {
+    "no": 252,
+    "date": "2022-06-30",
+    "content": "6월 명함",
+    "in_charge": "나미소 님",
+    "amount": -44000,
+    "clientId": 1
+  },
+  {
+    "no": 253,
+    "date": "2022-07-07",
+    "content": "AVPN 명함",
+    "in_charge": "이종현 님",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 254,
+    "date": "2022-07-19",
+    "content": "데모데이 현수막 외",
+    "in_charge": "장란영",
+    "amount": -151800,
+    "clientId": 1
+  },
+  {
+    "no": 255,
+    "date": "2022-07-27",
+    "content": "강의3 케이스스터디3 행사 현수막, 엑스배너 제작 및 디자인 적립금",
+    "in_charge": "김세은 님",
+    "amount": 550000,
+    "clientId": 1
+  },
+  {
+    "no": 256,
+    "date": "2022-07-31",
+    "content": "7월 명함 엔뉴얼 리포트 제작",
+    "in_charge": "나미소 님",
+    "amount": -2187360,
+    "clientId": 1
+  },
+  {
+    "no": 257,
+    "date": "2022-09-01",
+    "content": "COE 중철 70부 제작",
+    "in_charge": "나미소 님",
+    "amount": -231000,
+    "clientId": 1
+  },
+  {
+    "no": 258,
+    "date": "2022-09-14",
+    "content": "AVPN 명함",
+    "in_charge": "이종현 님",
+    "amount": -19800,
+    "clientId": 1
+  },
+  {
+    "no": 259,
+    "date": "2022-09-29",
+    "content": "SSIC엽서 제작 건 300부",
+    "in_charge": "장란영 님",
+    "amount": -132000,
+    "clientId": 1
+  },
+  {
+    "no": 260,
+    "date": "2022-10-26",
+    "content": "mysc 에뉴얼 포스터",
+    "in_charge": "김원희 님",
+    "amount": 792000,
+    "clientId": 1
+  },
+  {
+    "no": 261,
+    "date": "2022-10-26",
+    "content": "에뉴얼 포스터 및 퀵비",
+    "in_charge": "김원희 님",
+    "amount": -486200,
+    "clientId": 1
+  },
+  {
+    "no": 263,
+    "date": "2015-12-01",
+    "content": "11월 이전까지 적립된 잔액",
+    "in_charge": "김춘지",
+    "amount": 2050000,
+    "clientId": 2
+  },
+  {
+    "no": 264,
+    "date": "2015-12-10",
+    "content": "페이앱결제",
+    "in_charge": "김춘지",
+    "amount": 3000000,
+    "clientId": 2
+  },
+  {
+    "no": 265,
+    "date": "2015-12-15",
+    "content": "페이앱결제",
+    "in_charge": "김춘지",
+    "amount": 560000,
+    "clientId": 2
+  },
+  {
+    "no": 266,
+    "date": "2015-12-15",
+    "content": "페이앱결제",
+    "in_charge": "김춘지",
+    "amount": 950000,
+    "clientId": 2
+  },
+  {
+    "no": 267,
+    "date": "2015-12-16",
+    "content": "페이앱결제",
+    "in_charge": "김춘지",
+    "amount": 850000,
+    "clientId": 2
+  },
+  {
+    "no": 268,
+    "date": "2015-12-16",
+    "content": "책자 인쇄 및 배송(공항)",
+    "in_charge": "김춘지",
+    "amount": -517000,
+    "clientId": 2
+  },
+  {
+    "no": 269,
+    "date": "2015-12-18",
+    "content": "페이앱결제",
+    "in_charge": "김춘지",
+    "amount": 320000,
+    "clientId": 2
+  },
+  {
+    "no": 270,
+    "date": "2015-12-18",
+    "content": "현수막, Enbox책자(20권) 출력/배송",
+    "in_charge": "김춘지",
+    "amount": -280000,
+    "clientId": 2
+  },
+  {
+    "no": 271,
+    "date": "2015-12-18",
+    "content": "Vol#1 샘플 50권(흑백30,컬러20부)",
+    "in_charge": "김춘지",
+    "amount": -790000,
+    "clientId": 2
+  },
+  {
+    "no": 272,
+    "date": "2015-12-18",
+    "content": "Special Lecture 책자 20권",
+    "in_charge": "김춘지",
+    "amount": -139000,
+    "clientId": 2
+  },
+  {
+    "no": 273,
+    "date": "2015-12-21",
+    "content": "번역프리랜서 지급",
+    "in_charge": "김춘지",
+    "amount": -517063,
+    "clientId": 2
+  },
+  {
+    "no": 274,
+    "date": "2016-01-11",
+    "content": "페이앱결제",
+    "in_charge": "김춘지(",
+    "amount": 650000,
+    "clientId": 2
+  },
+  {
+    "no": 275,
+    "date": "2016-01-11",
+    "content": "페이앱결제",
+    "in_charge": "김춘지",
+    "amount": 740000,
+    "clientId": 2
+  },
+  {
+    "no": 276,
+    "date": "2016-01-11",
+    "content": "번역프리랜서 지급",
+    "in_charge": "김춘지",
+    "amount": -1551189,
+    "clientId": 2
+  },
+  {
+    "no": 277,
+    "date": "2016-02-05",
+    "content": "PPT 수정 건",
+    "in_charge": "김춘지",
+    "amount": -66000,
+    "clientId": 2
+  },
+  {
+    "no": 278,
+    "date": "2016-04-07",
+    "content": "추가 가드결제",
+    "in_charge": "김춘지",
+    "amount": 2950000,
+    "clientId": 2
+  },
+  {
+    "no": 279,
+    "date": "2016-04-18",
+    "content": "추가 카드결제",
+    "in_charge": "김춘지",
+    "amount": 2000000,
+    "clientId": 2
+  },
+  {
+    "no": 280,
+    "date": "2016-04-26",
+    "content": "도서 기획 및 인쇄 (견적서 첨부:이메일)",
+    "in_charge": "김춘지",
+    "amount": -4763000,
+    "clientId": 2
+  },
+  {
+    "no": 281,
+    "date": "2016-05-04",
+    "content": "명함 인쇄 2 건",
+    "in_charge": "김춘지",
+    "amount": -32000,
+    "clientId": 2
+  },
+  {
+    "no": 282,
+    "date": "2016-05-04",
+    "content": "다마스배송(인천공항)",
+    "in_charge": "김춘지",
+    "amount": -65000,
+    "clientId": 2
+  },
+  {
+    "no": 283,
+    "date": "2016-06-14",
+    "content": "봄사이언스",
+    "in_charge": "김춘지",
+    "amount": -66000,
+    "clientId": 2
+  },
+  {
+    "no": 284,
+    "date": "2016-07-08",
+    "content": "박선기님 피피티 외 디자인(20p)",
+    "in_charge": "김춘지",
+    "amount": -99000,
+    "clientId": 2
+  },
+  {
+    "no": 285,
+    "date": "2016-07-25",
+    "content": "파워포인트편집(봄사이언스)",
+    "in_charge": "김춘지",
+    "amount": -82500,
+    "clientId": 2
+  },
+  {
+    "no": 286,
+    "date": "2016-08-18",
+    "content": "설문지 편집",
+    "in_charge": "김춘지",
+    "amount": -134200,
+    "clientId": 2
+  },
+  {
+    "no": 287,
+    "date": "2016-08-18",
+    "content": "공주대학교 적립 건",
+    "in_charge": "김춘지",
+    "amount": 195775,
+    "clientId": 2
+  },
+  {
+    "no": 288,
+    "date": "2016-09-30",
+    "content": "수치예보기술 세미나 현수막, 배너",
+    "in_charge": "김춘지",
+    "amount": -132000,
+    "clientId": 2
+  },
+  {
+    "no": 289,
+    "date": "2016-10-13",
+    "content": "파워포인트편집(봄사이언스 47p)",
+    "in_charge": "김춘지",
+    "amount": -47000,
+    "clientId": 2
+  },
+  {
+    "no": 290,
+    "date": "2017-01-03",
+    "content": "봄인 명함",
+    "in_charge": "김춘지",
+    "amount": -16500,
+    "clientId": 2
+  },
+  {
+    "no": 291,
+    "date": "2017-01-31",
+    "content": "Enbox 캄보디아 책자 현수막",
+    "in_charge": "강혜민(Enbox)",
+    "amount": -335500,
+    "clientId": 2
+  },
+  {
+    "no": 293,
+    "date": "2016-01-04",
+    "content": "2015년 12월까지 결제된 잔액",
+    "in_charge": "-",
+    "amount": 1314500,
+    "clientId": 3
+  },
+  {
+    "no": 294,
+    "date": "2016-02-18",
+    "content": "명함인쇄(센터장님)",
+    "in_charge": "박수연",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 295,
+    "date": "2016-02-18",
+    "content": "명함기획/디자인",
+    "in_charge": "박수연",
+    "amount": -22000,
+    "clientId": 3
+  },
+  {
+    "no": 296,
+    "date": "2016-02-18",
+    "content": "페이스북 및 블로그 디자인 기획",
+    "in_charge": "박수연",
+    "amount": -99000,
+    "clientId": 3
+  },
+  {
+    "no": 297,
+    "date": "2016-02-18",
+    "content": "서울시청 포스터 제작 및 전달",
+    "in_charge": "박수연",
+    "amount": -247500,
+    "clientId": 3
+  },
+  {
+    "no": 298,
+    "date": "2016-03-19",
+    "content": "생명나무 현수막 외",
+    "in_charge": "박수연",
+    "amount": -159500,
+    "clientId": 3
+  },
+  {
+    "no": 299,
+    "date": "2016-03-29",
+    "content": "명함 3건(100매씩)",
+    "in_charge": "박수연",
+    "amount": -33000,
+    "clientId": 3
+  },
+  {
+    "no": 300,
+    "date": "2016-04-26",
+    "content": "창업동아리 활성화 포럼 현수막,배너",
+    "in_charge": "이현복",
+    "amount": -88000,
+    "clientId": 3
+  },
+  {
+    "no": 301,
+    "date": "2016-07-01",
+    "content": "Office Hours with WADIZ",
+    "in_charge": "박수연",
+    "amount": -110000,
+    "clientId": 3
+  },
+  {
+    "no": 302,
+    "date": "2016-07-11",
+    "content": "추가 적립",
+    "in_charge": "박수연",
+    "amount": 11000,
+    "clientId": 3
+  },
+  {
+    "no": 303,
+    "date": "2016-07-28",
+    "content": "IR 로드쇼 적립",
+    "in_charge": "박수연",
+    "amount": 248900,
+    "clientId": 3
+  },
+  {
+    "no": 304,
+    "date": "2016-07-28",
+    "content": "크라우드펀딩 심화컨설팅 건 차감",
+    "in_charge": "박수연",
+    "amount": -55000,
+    "clientId": 3
+  },
+  {
+    "no": 305,
+    "date": "2016-08-09",
+    "content": "0812아스피린아카데미 교재 4권",
+    "in_charge": "김수현",
+    "amount": -22880,
+    "clientId": 3
+  },
+  {
+    "no": 306,
+    "date": "2016-08-26",
+    "content": "Office Hours with WADIZ",
+    "in_charge": "박수연",
+    "amount": -88000,
+    "clientId": 3
+  },
+  {
+    "no": 307,
+    "date": "2016-09-26",
+    "content": "소셜창업과정 교재비",
+    "in_charge": "김수현",
+    "amount": 400000,
+    "clientId": 3
+  },
+  {
+    "no": 308,
+    "date": "2016-10-13",
+    "content": "학생 배너, 및 팝한 브로슈어",
+    "in_charge": "박수연",
+    "amount": -110000,
+    "clientId": 3
+  },
+  {
+    "no": 309,
+    "date": "2016-10-13",
+    "content": "서울창업박람회 배너",
+    "in_charge": "이현복",
+    "amount": -75900,
+    "clientId": 3
+  },
+  {
+    "no": 310,
+    "date": "2016-12-01",
+    "content": "한중 글로벌 - 현수막 인쇄",
+    "in_charge": "이현복",
+    "amount": -77000,
+    "clientId": 3
+  },
+  {
+    "no": 311,
+    "date": "2016-12-01",
+    "content": "11월 제작물 이후 적립금 반영",
+    "in_charge": "김수현",
+    "amount": 159360,
+    "clientId": 3
+  },
+  {
+    "no": 312,
+    "date": "2016-12-08",
+    "content": "BI입주기업모집 포스터 디자인",
+    "in_charge": "이현복",
+    "amount": -55000,
+    "clientId": 3
+  },
+  {
+    "no": 313,
+    "date": "2016-12-14",
+    "content": "중국어 현수막 1건(광주시 방문단환영)",
+    "in_charge": "이현복",
+    "amount": -33000,
+    "clientId": 3
+  },
+  {
+    "no": 314,
+    "date": "2016-12-16",
+    "content": "솔루셔니시트 현수막 추가 건",
+    "in_charge": "김수현",
+    "amount": -55000,
+    "clientId": 3
+  },
+  {
+    "no": 315,
+    "date": "2017-01-17",
+    "content": "중소기업지원시책 현수막,배너",
+    "in_charge": "김소희",
+    "amount": -143000,
+    "clientId": 3
+  },
+  {
+    "no": 316,
+    "date": "2017-02-16",
+    "content": "BM교육 및 멘토링 현수막",
+    "in_charge": "김수현",
+    "amount": -22000,
+    "clientId": 3
+  },
+  {
+    "no": 317,
+    "date": "2017-03-22",
+    "content": "대학생창업동아리 성장지원사업 포스터인쇄",
+    "in_charge": "배성훈",
+    "amount": -131000,
+    "clientId": 3
+  },
+  {
+    "no": 318,
+    "date": "2017-04-06",
+    "content": "국민대 창업아이템사업화 설명회",
+    "in_charge": "김수현",
+    "amount": -88000,
+    "clientId": 3
+  },
+  {
+    "no": 319,
+    "date": "2017-06-19",
+    "content": "신규명칭 및 리모델링 디자인 공모전",
+    "in_charge": "김혜정",
+    "amount": -187000,
+    "clientId": 3
+  },
+  {
+    "no": 320,
+    "date": "2017-11-22",
+    "content": "11월 2차 적립",
+    "in_charge": "안정연",
+    "amount": 166100,
+    "clientId": 3
+  },
+  {
+    "no": 321,
+    "date": "2017-11-30",
+    "content": "BI신규입주기업, 모의IR 입금",
+    "in_charge": "박제형",
+    "amount": 477500,
+    "clientId": 3
+  },
+  {
+    "no": 322,
+    "date": "2017-11-30",
+    "content": "BI신규입주기업 배너, 현수막 외",
+    "in_charge": "박제형",
+    "amount": -165000,
+    "clientId": 3
+  },
+  {
+    "no": 323,
+    "date": "2017-11-30",
+    "content": "모의 IR 현수막 2매",
+    "in_charge": "박제형",
+    "amount": -107800,
+    "clientId": 3
+  },
+  {
+    "no": 324,
+    "date": "2017-12-11",
+    "content": "창업멘토링 12월 1차 결제",
+    "in_charge": "안정연",
+    "amount": 450000,
+    "clientId": 3
+  },
+  {
+    "no": 325,
+    "date": "2017-12-11",
+    "content": "창업멘토링 12월 1차 결제",
+    "in_charge": "안정연",
+    "amount": -77000,
+    "clientId": 3
+  },
+  {
+    "no": 326,
+    "date": "2017-12-11",
+    "content": "솔루션데이 현수막, 포스터",
+    "in_charge": "박제형",
+    "amount": -132000,
+    "clientId": 3
+  },
+  {
+    "no": 327,
+    "date": "2017-12-11",
+    "content": "창업동아리 성과발표회 결제완료",
+    "in_charge": "배성훈",
+    "amount": 3841500,
+    "clientId": 3
+  },
+  {
+    "no": 328,
+    "date": "2017-12-11",
+    "content": "창업동아리 성과발표회 사용내역",
+    "in_charge": "배성훈",
+    "amount": -3406700,
+    "clientId": 3
+  },
+  {
+    "no": 329,
+    "date": "2018-01-09",
+    "content": "중소기업지원시책",
+    "in_charge": "박수빈",
+    "amount": -121000,
+    "clientId": 3
+  },
+  {
+    "no": 330,
+    "date": "2018-01-16",
+    "content": "새해인사 디자인 시안(중단)",
+    "in_charge": "안정연",
+    "amount": -11000,
+    "clientId": 3
+  },
+  {
+    "no": 331,
+    "date": "2018-02-12",
+    "content": "센터장님 명함",
+    "in_charge": "김소희",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 332,
+    "date": "2018-03-06",
+    "content": "PreBI 입주기업 발표 건",
+    "in_charge": "박제형",
+    "amount": -187000,
+    "clientId": 3
+  },
+  {
+    "no": 333,
+    "date": "2018-03-27",
+    "content": "솔루션데이, BM체계화",
+    "in_charge": "박수빈",
+    "amount": -209000,
+    "clientId": 3
+  },
+  {
+    "no": 334,
+    "date": "2018-03-27",
+    "content": "명함 2건(고병기, 배성훈 님)",
+    "in_charge": "김소희",
+    "amount": -33000,
+    "clientId": 3
+  },
+  {
+    "no": 335,
+    "date": "2018-04-04",
+    "content": "명함 2건(이선호, 안정연 님)",
+    "in_charge": "김소희",
+    "amount": -33000,
+    "clientId": 3
+  },
+  {
+    "no": 336,
+    "date": "2018-05-02",
+    "content": "생명나무 현수막",
+    "in_charge": "김소희",
+    "amount": -44000,
+    "clientId": 3
+  },
+  {
+    "no": 337,
+    "date": "2018-05-17",
+    "content": "BI 입주모집 공고문 포스터 제작",
+    "in_charge": "박제형",
+    "amount": -220000,
+    "clientId": 3
+  },
+  {
+    "no": 338,
+    "date": "2018-05-31",
+    "content": "BI 입주모집 관련 배너",
+    "in_charge": "박제형",
+    "amount": -66000,
+    "clientId": 3
+  },
+  {
+    "no": 339,
+    "date": "2018-08-27",
+    "content": "바이오테크창업포럼 현수막_배너",
+    "in_charge": "배성훈",
+    "amount": -110000,
+    "clientId": 3
+  },
+  {
+    "no": 340,
+    "date": "2018-09-28",
+    "content": "9월 1차 아카데미 건 적립",
+    "in_charge": "안정연",
+    "amount": 77000,
+    "clientId": 3
+  },
+  {
+    "no": 341,
+    "date": "2018-09-30",
+    "content": "9월 2차 아카데미 건 적립",
+    "in_charge": "안정연",
+    "amount": 77000,
+    "clientId": 3
+  },
+  {
+    "no": 342,
+    "date": "2018-10-16",
+    "content": "10월 1차 아카데미 건 적립",
+    "in_charge": "안정연",
+    "amount": 77000,
+    "clientId": 3
+  },
+  {
+    "no": 343,
+    "date": "2018-10-17",
+    "content": "서울동북부차업지원포럼 차액 적립",
+    "in_charge": "배성훈",
+    "amount": 22000,
+    "clientId": 3
+  },
+  {
+    "no": 344,
+    "date": "2018-10-17",
+    "content": "서울동북부차업지원포럼 현수막 등 교체에 의한 추가",
+    "in_charge": "배성훈",
+    "amount": -159500,
+    "clientId": 3
+  },
+  {
+    "no": 345,
+    "date": "2018-10-30",
+    "content": "10월 1차 아카데미 건 적립",
+    "in_charge": "안정연",
+    "amount": 77000,
+    "clientId": 3
+  },
+  {
+    "no": 346,
+    "date": "2018-11-05",
+    "content": "10월 2차 아카데미 취소차감",
+    "in_charge": "박수빈, 성효은",
+    "amount": -163600,
+    "clientId": 3
+  },
+  {
+    "no": 347,
+    "date": "2018-11-14",
+    "content": "동북부창업지원포럼 차액 적립",
+    "in_charge": "배성훈",
+    "amount": 143000,
+    "clientId": 3
+  },
+  {
+    "no": 348,
+    "date": "2018-11-30",
+    "content": "창업멘토링 11월 1차 적립 건",
+    "in_charge": "성효은 님",
+    "amount": 111400,
+    "clientId": 3
+  },
+  {
+    "no": 349,
+    "date": "2018-12-05",
+    "content": "7회동북부창업지원포럼 적립",
+    "in_charge": "배성훈",
+    "amount": 407000,
+    "clientId": 3
+  },
+  {
+    "no": 350,
+    "date": "2018-12-05",
+    "content": "7회동북부창업지원포럼 차감",
+    "in_charge": "배성훈",
+    "amount": -275000,
+    "clientId": 3
+  },
+  {
+    "no": 351,
+    "date": "2018-12-12",
+    "content": "8회동북부창업지원포럼 적립",
+    "in_charge": "배성훈",
+    "amount": 77000,
+    "clientId": 3
+  },
+  {
+    "no": 352,
+    "date": "2018-12-21",
+    "content": "창업멘토링 12월 1차 활용(현수막1,배너1)",
+    "in_charge": "성효은",
+    "amount": -99000,
+    "clientId": 3
+  },
+  {
+    "no": 353,
+    "date": "2019-01-11",
+    "content": "스테이션D 포스터 디자인",
+    "in_charge": "배성훈",
+    "amount": -88000,
+    "clientId": 3
+  },
+  {
+    "no": 354,
+    "date": "2019-02-25",
+    "content": "명함 1건(김희정 님) _퀵 포함",
+    "in_charge": "김소희 님",
+    "amount": -33000,
+    "clientId": 3
+  },
+  {
+    "no": 355,
+    "date": "2019-03-04",
+    "content": "찾아가는 중소기업 시책 설명회",
+    "in_charge": "성효은 님",
+    "amount": -154000,
+    "clientId": 3
+  },
+  {
+    "no": 356,
+    "date": "2019-03-08",
+    "content": "액자, 출력 관련 적립금 적립",
+    "in_charge": "김소희 님",
+    "amount": 73200,
+    "clientId": 3
+  },
+  {
+    "no": 357,
+    "date": "2019-03-11",
+    "content": "Far-east movement 추가결제",
+    "in_charge": "성효은 님",
+    "amount": -106500,
+    "clientId": 3
+  },
+  {
+    "no": 358,
+    "date": "2019-03-12",
+    "content": "웹포스터 (광운대 산학협력단 채용 공고 _ 2안 택일)",
+    "in_charge": "김소희 님",
+    "amount": -110000,
+    "clientId": 3
+  },
+  {
+    "no": 359,
+    "date": "2019-03-20",
+    "content": "기업 로고 스탠드 인쇄",
+    "in_charge": "고병기 님",
+    "amount": -198000,
+    "clientId": 3
+  },
+  {
+    "no": 360,
+    "date": "2019-04-26",
+    "content": "11-1 창업아카데미 잔액 적립",
+    "in_charge": "성효은 님",
+    "amount": 7000,
+    "clientId": 3
+  },
+  {
+    "no": 361,
+    "date": "2019-04-26",
+    "content": "11-1 창업멘토링 잔액 적립",
+    "in_charge": "성효은 님",
+    "amount": 126500,
+    "clientId": 3
+  },
+  {
+    "no": 362,
+    "date": "2019-05-13",
+    "content": "창업멘토링 포스터. 5월 1차",
+    "in_charge": "성효은 님",
+    "amount": 140000,
+    "clientId": 3
+  },
+  {
+    "no": 363,
+    "date": "2019-05-13",
+    "content": "창업멘토링 포스터. 4월 2차",
+    "in_charge": "성효은 님",
+    "amount": 140000,
+    "clientId": 3
+  },
+  {
+    "no": 364,
+    "date": "2019-05-13",
+    "content": "4월 2차 아카데미 포스터_현수막_배너",
+    "in_charge": "성효은 님",
+    "amount": 260000,
+    "clientId": 3
+  },
+  {
+    "no": 365,
+    "date": "2019-05-13",
+    "content": "4월 2차 아카데미 포스터_현수막_배너 결제",
+    "in_charge": "성효은 님",
+    "amount": -253000,
+    "clientId": 3
+  },
+  {
+    "no": 366,
+    "date": "2019-05-13",
+    "content": "외벽디자인 공모전 포스터, 인쇄",
+    "in_charge": "김소희 님",
+    "amount": -264000,
+    "clientId": 3
+  },
+  {
+    "no": 367,
+    "date": "2019-06-14",
+    "content": "10T포맥스 로고 (배송비 포함)",
+    "in_charge": "심혜민 님",
+    "amount": -27500,
+    "clientId": 3
+  },
+  {
+    "no": 368,
+    "date": "2019-07-10",
+    "content": "센터안내용 현수막 외 차액 적립",
+    "in_charge": "성효은 님",
+    "amount": 73200,
+    "clientId": 3
+  },
+  {
+    "no": 369,
+    "date": "2019-07-17",
+    "content": "멘토링 결제금액 적립",
+    "in_charge": "성효은 님",
+    "amount": 70000,
+    "clientId": 3
+  },
+  {
+    "no": 370,
+    "date": "2019-07-23",
+    "content": "성효은 님 명함",
+    "in_charge": "성효은 님",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 371,
+    "date": "2019-07-26",
+    "content": "성효은 님 명함",
+    "in_charge": "성효은 님",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 372,
+    "date": "2019-07-29",
+    "content": "멘토링 결제금액 적립",
+    "in_charge": "성효은 님",
+    "amount": 70000,
+    "clientId": 3
+  },
+  {
+    "no": 373,
+    "date": "2019-08-12",
+    "content": "멘토링 결제금액 적립",
+    "in_charge": "성효은 님",
+    "amount": 70000,
+    "clientId": 3
+  },
+  {
+    "no": 374,
+    "date": "2019-08-13",
+    "content": "현수막 1매, 배너 2매 (생명나무)",
+    "in_charge": "김소희 님",
+    "amount": -152900,
+    "clientId": 3
+  },
+  {
+    "no": 375,
+    "date": "2019-08-21",
+    "content": "채용공고 웹포스터",
+    "in_charge": "김소희 님",
+    "amount": -44000,
+    "clientId": 3
+  },
+  {
+    "no": 376,
+    "date": "2019-08-29",
+    "content": "멘토링 결제금액 적립",
+    "in_charge": "성효은 님",
+    "amount": 70000,
+    "clientId": 3
+  },
+  {
+    "no": 377,
+    "date": "2019-09-02",
+    "content": "채용공고 웹포스터",
+    "in_charge": "김소희 님",
+    "amount": -88000,
+    "clientId": 3
+  },
+  {
+    "no": 378,
+    "date": "2019-09-23",
+    "content": "명함 1건(신규)",
+    "in_charge": "김소희 님",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 379,
+    "date": "2019-09-24",
+    "content": "명함 1건 퀵 발송",
+    "in_charge": "김소희 님",
+    "amount": -14300,
+    "clientId": 3
+  },
+  {
+    "no": 380,
+    "date": "2019-09-24",
+    "content": "10T포맥스 로고 (배송비 포함)",
+    "in_charge": "심혜민 님",
+    "amount": -60500,
+    "clientId": 3
+  },
+  {
+    "no": 381,
+    "date": "2019-10-31",
+    "content": "멘토링 결제금액 적립",
+    "in_charge": "성효은 님",
+    "amount": 105000,
+    "clientId": 3
+  },
+  {
+    "no": 382,
+    "date": "2019-11-15",
+    "content": "명함 1건(김희정 님)",
+    "in_charge": "김소희 님",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 383,
+    "date": "2019-11-22",
+    "content": "멘토링 결제금액 적립",
+    "in_charge": "성효은 님",
+    "amount": 210000,
+    "clientId": 3
+  },
+  {
+    "no": 384,
+    "date": "2019-11-26",
+    "content": "명함 1건(퀵)",
+    "in_charge": "박수빈 님",
+    "amount": -33000,
+    "clientId": 3
+  },
+  {
+    "no": 385,
+    "date": "2019-11-29",
+    "content": "멘토링 결제금액 적립",
+    "in_charge": "성효은 님",
+    "amount": 210000,
+    "clientId": 3
+  },
+  {
+    "no": 386,
+    "date": "2019-12-02",
+    "content": "명함 1건(고병기 님)",
+    "in_charge": "김소희 님",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 387,
+    "date": "2019-12-18",
+    "content": "쇼핑백 적립잔금",
+    "in_charge": "김소희 님",
+    "amount": 440000,
+    "clientId": 3
+  },
+  {
+    "no": 388,
+    "date": "2020-01-02",
+    "content": "광운대 채용 웹포스터",
+    "in_charge": "김소희 님",
+    "amount": -88000,
+    "clientId": 3
+  },
+  {
+    "no": 389,
+    "date": "2020-01-22",
+    "content": "명함 3건(성효은 님 외)",
+    "in_charge": "성효은 님",
+    "amount": -49500,
+    "clientId": 3
+  },
+  {
+    "no": 390,
+    "date": "2020-02-04",
+    "content": "명함3건(홍유정님 외)",
+    "in_charge": "성효은 님",
+    "amount": -49500,
+    "clientId": 3
+  },
+  {
+    "no": 391,
+    "date": "2020-02-13",
+    "content": "명함 1건 (센터장님)",
+    "in_charge": "김은영 님",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 392,
+    "date": "2020-02-14",
+    "content": "포스터 디자인 외",
+    "in_charge": "성효은 님",
+    "amount": -165000,
+    "clientId": 3
+  },
+  {
+    "no": 393,
+    "date": "2020-02-17",
+    "content": "웹포스터 디자인",
+    "in_charge": "성효은 님",
+    "amount": -88000,
+    "clientId": 3
+  },
+  {
+    "no": 394,
+    "date": "2020-02-18",
+    "content": "L홀더 인쇄",
+    "in_charge": "심혜민 님",
+    "amount": -297000,
+    "clientId": 3
+  },
+  {
+    "no": 395,
+    "date": "2020-02-20",
+    "content": "적립금 추가",
+    "in_charge": "심혜민 님",
+    "amount": 180000,
+    "clientId": 3
+  },
+  {
+    "no": 396,
+    "date": "2020-02-24",
+    "content": "배너 2매",
+    "in_charge": "심혜민 님",
+    "amount": -71500,
+    "clientId": 3
+  },
+  {
+    "no": 397,
+    "date": "2020-03-10",
+    "content": "기업로고 스탠드",
+    "in_charge": "심혜민 님",
+    "amount": -220000,
+    "clientId": 3
+  },
+  {
+    "no": 398,
+    "date": "2020-03-24",
+    "content": "박인애 님 명함 1건",
+    "in_charge": "성효은 님",
+    "amount": -19800,
+    "clientId": 3
+  },
+  {
+    "no": 399,
+    "date": "2020-04-29",
+    "content": "고병기 님 명함 1건(400매)",
+    "in_charge": "박인애 님",
+    "amount": -33000,
+    "clientId": 3
+  },
+  {
+    "no": 400,
+    "date": "2020-07-07",
+    "content": "웹포스터 제작 건",
+    "in_charge": "윤지영 님",
+    "amount": 112500,
+    "clientId": 3
+  },
+  {
+    "no": 401,
+    "date": "2020-07-13",
+    "content": "현수막 배너 제작건",
+    "in_charge": "허윤 님",
+    "amount": 14800,
+    "clientId": 3
+  },
+  {
+    "no": 402,
+    "date": "2020-07-13",
+    "content": "현수막 배너 결제 차액",
+    "in_charge": "허윤 님",
+    "amount": -7700,
+    "clientId": 3
+  },
+  {
+    "no": 403,
+    "date": "2020-07-23",
+    "content": "웹포스터 디자인",
+    "in_charge": "윤지영 님",
+    "amount": 250000,
+    "clientId": 3
+  },
+  {
+    "no": 404,
+    "date": "2020-07-23",
+    "content": "웹포스터 디자인 차감",
+    "in_charge": "윤지영 님",
+    "amount": -137500,
+    "clientId": 3
+  },
+  {
+    "no": 405,
+    "date": "2020-07-23",
+    "content": "포스터 출력 1건",
+    "in_charge": "윤지영 님",
+    "amount": -23100,
+    "clientId": 3
+  },
+  {
+    "no": 406,
+    "date": "2020-07-27",
+    "content": "배너, 현수막 외",
+    "in_charge": "윤지영 님",
+    "amount": 200000,
+    "clientId": 3
+  },
+  {
+    "no": 407,
+    "date": "2020-07-27",
+    "content": "배너,현수막 출력 퀵",
+    "in_charge": "윤지영 님",
+    "amount": -132700,
+    "clientId": 3
+  },
+  {
+    "no": 408,
+    "date": "2020-08-20",
+    "content": "포스터 제작",
+    "in_charge": "윤지영 님",
+    "amount": 137500,
+    "clientId": 3
+  },
+  {
+    "no": 409,
+    "date": "2020-09-17",
+    "content": "기업로고 스탠드",
+    "in_charge": "허윤 님",
+    "amount": -85800,
+    "clientId": 3
+  },
+  {
+    "no": 410,
+    "date": "2020-09-29",
+    "content": "웹포스터 디자인",
+    "in_charge": "윤지영 님",
+    "amount": 104800,
+    "clientId": 3
+  },
+  {
+    "no": 411,
+    "date": "2020-10-08",
+    "content": "선결제(카드)",
+    "in_charge": "허윤 님",
+    "amount": 240000,
+    "clientId": 3
+  },
+  {
+    "no": 412,
+    "date": "2020-10-19",
+    "content": "웹포스터 디자인",
+    "in_charge": "윤지영 님",
+    "amount": 104800,
+    "clientId": 3
+  },
+  {
+    "no": 413,
+    "date": "2020-10-28",
+    "content": "선결제(카드)",
+    "in_charge": "허윤 님",
+    "amount": 240000,
+    "clientId": 3
+  },
+  {
+    "no": 414,
+    "date": "2020-12-04",
+    "content": "포럼 행사물품 및 성과자료집",
+    "in_charge": "윤지영 님",
+    "amount": -1011980,
+    "clientId": 3
+  },
+  {
+    "no": 415,
+    "date": "2022-10-17",
+    "content": "적립금(세금계산서)",
+    "in_charge": "성효은",
+    "amount": 1680000,
+    "clientId": 3
+  },
+  {
+    "no": 416,
+    "date": "2022-10-21",
+    "content": "적립금(세금계산서)",
+    "in_charge": "성효은 님",
+    "amount": 220000,
+    "clientId": 3
+  },
+  {
+    "no": 418,
+    "date": "2016-02-05",
+    "content": "기존 잔액",
+    "in_charge": "지노도예공방",
+    "amount": 382000,
+    "clientId": 4
+  },
+  {
+    "no": 419,
+    "date": "2016-02-29",
+    "content": "현수막 출력 10개 (예정)",
+    "in_charge": "지노도예공방",
+    "amount": -227700,
+    "clientId": 4
+  },
+  {
+    "no": 420,
+    "date": "2016-03-09",
+    "content": "전단지 인쇄 배송비",
+    "in_charge": "지노도예공방",
+    "amount": -49000,
+    "clientId": 4
+  },
+  {
+    "no": 421,
+    "date": "2016-04-05",
+    "content": "전단지 인쇄비",
+    "in_charge": "지노도예공방",
+    "amount": -99000,
+    "clientId": 4
+  },
+  {
+    "no": 422,
+    "date": "2016-05-31",
+    "content": "배너인쇄 일부",
+    "in_charge": "지노도예공방",
+    "amount": -6300,
+    "clientId": 4
+  },
+  {
+    "no": 423,
+    "date": "2017-12-19",
+    "content": "홍보물 디자인, 인쇄",
+    "in_charge": "지노도예공방",
+    "amount": 2143460,
+    "clientId": 4
+  },
+  {
+    "no": 424,
+    "date": "2018-01-16",
+    "content": "홍보 현수막, 전단, 브로슈어",
+    "in_charge": "지노도예공방",
+    "amount": -440000,
+    "clientId": 4
+  },
+  {
+    "no": 425,
+    "date": "2018-04-05",
+    "content": "김종수 님 명함 및 현수막",
+    "in_charge": "지노도예공방",
+    "amount": -60500,
+    "clientId": 4
+  },
+  {
+    "no": 426,
+    "date": "2018-07-23",
+    "content": "포스터 인쇄",
+    "in_charge": "지노도예공방",
+    "amount": -159500,
+    "clientId": 4
+  },
+  {
+    "no": 427,
+    "date": "2018-07-23",
+    "content": "포스터인쇄 입금",
+    "in_charge": "지노도예공방",
+    "amount": 80000,
+    "clientId": 4
+  },
+  {
+    "no": 428,
+    "date": "2018-08-07",
+    "content": "승준엽서",
+    "in_charge": "지노도예공방",
+    "amount": -66000,
+    "clientId": 4
+  },
+  {
+    "no": 429,
+    "date": "2018-08-21",
+    "content": "김종수 님 명함 인쇄",
+    "in_charge": "지노도예학교",
+    "amount": -16500,
+    "clientId": 4
+  },
+  {
+    "no": 430,
+    "date": "2018-09-18",
+    "content": "브로슈어, 엽서 샘플인쇄",
+    "in_charge": "지노도예학교",
+    "amount": -40700,
+    "clientId": 4
+  },
+  {
+    "no": 431,
+    "date": "2018-10-15",
+    "content": "엽서 인쇄",
+    "in_charge": "지노도예학교",
+    "amount": -330000,
+    "clientId": 4
+  },
+  {
+    "no": 432,
+    "date": "2018-11-13",
+    "content": "3단 브로슈어 1,000매 인쇄(랑데뷰)",
+    "in_charge": "지노도예학교",
+    "amount": -418000,
+    "clientId": 4
+  },
+  {
+    "no": 433,
+    "date": "2019-04-08",
+    "content": "브로슈어, 현수막 외 인쇄",
+    "in_charge": "지노도예학교",
+    "amount": -462000,
+    "clientId": 4
+  },
+  {
+    "no": 434,
+    "date": "2019-05-23",
+    "content": "명함 3건 인쇄",
+    "in_charge": "지노도예학교",
+    "amount": -49500,
+    "clientId": 4
+  },
+  {
+    "no": 435,
+    "date": "2019-06-04",
+    "content": "명함 2건 인쇄",
+    "in_charge": "지노도예학교",
+    "amount": -33000,
+    "clientId": 4
+  },
+  {
+    "no": 436,
+    "date": "2019-06-27",
+    "content": "명함 1건 인쇄",
+    "in_charge": "지노도예학교",
+    "amount": -19800,
+    "clientId": 4
+  },
+  {
+    "no": 438,
+    "date": "2016-01-01",
+    "content": "잔액 적립",
+    "in_charge": "양순모",
+    "amount": 540000,
+    "clientId": 6
+  },
+  {
+    "no": 439,
+    "date": "2016-02-17",
+    "content": "스티커 인쇄",
+    "in_charge": "정지원",
+    "amount": -55000,
+    "clientId": 6
+  },
+  {
+    "no": 440,
+    "date": "2016-03-30",
+    "content": "명함(정지원 님) 1건 (택배비 포함)",
+    "in_charge": "양순모",
+    "amount": -15100,
+    "clientId": 6
+  },
+  {
+    "no": 441,
+    "date": "2016-06-30",
+    "content": "쇼핑백 등 사용",
+    "in_charge": "양순모",
+    "amount": -469900,
+    "clientId": 6
+  }
+]
